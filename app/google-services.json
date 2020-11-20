@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556755781928",
+    "firebase_url": "https://flaskauth-e4bef.firebaseio.com",
+    "project_id": "flaskauth-e4bef",
+    "storage_bucket": "flaskauth-e4bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556755781928:android:d485f19346ec3fd036681d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556755781928-sck2vu92k7anlqkvq4sh8ki80lq276go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKsRhQeIn7UhGl4rmHp_0_IcoGFlk84c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556755781928-sck2vu92k7anlqkvq4sh8ki80lq276go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

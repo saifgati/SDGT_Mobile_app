@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SGIT</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="create_account">Create Account !</string>
+    <string name="NONE" />
+    <string name="sign_up">Sign UP</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="phone_number">Phone number</string>
+    <string name="Vehicl">Vehicle Model</string>
+    <string name="company">Company</string>
+    <string name="country">Country</string>
+    <string name="device_id">Device ID</string>
+    <string name="get_me_to_my_device">Get me to my device</string>
+    <string name="welcome">Welcome !</string>
+    <string name="user_name">user_name</string>
+</resources>
